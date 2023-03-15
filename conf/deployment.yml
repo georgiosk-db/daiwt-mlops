@@ -218,4 +218,4 @@ environments:
               notebook_path: 'notebooks/model_inference_batch'
               parameters: ['--base-data-params', 'file:fuse://conf/.base_data_params.env',
                            '--env', 'file:fuse://conf/prod/.prod.env',
-                           '--conf-file', 'file:fuse://conf/pipeline_configs/model_inference_batch.yml']v
+                           '--conf-file', 'file:fuse://conf/pipeline_configs/model_inference_batch.yml']
